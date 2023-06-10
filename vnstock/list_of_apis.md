@@ -15,3 +15,5 @@ https://dchart-api.vndirect.com.vn/dchart/history?symbol=HPG&resolution=D&from=0
 ## https://polygon.io/
 [https://polygon.io/](https://polygon.io/)
 
+## Dịch vụ Fast API Connect của SSI
+[https://www.ssi.com.vn/khach-hang-ca-nhan/fast-connect-api](https://www.ssi.com.vn/khach-hang-ca-nhan/fast-connect-api)
