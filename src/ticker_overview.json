@@ -1,0 +1,21 @@
+{
+  "exchange": "HOSE",
+  "shortName": "Techcombank",
+  "industryID": 289,
+  "industryIDv2": "8355",
+  "industry": "Banks",
+  "industryEn": "Banks",
+  "establishedYear": "1993",
+  "noEmployees": 9757,
+  "noShareholders": 1901,
+  "foreignPercent": 0.225,
+  "website": "http://www.techcombank.com.vn",
+  "stockRating": 4.2,
+  "deltaInWeek": 0.051,
+  "deltaInMonth": 0.052,
+  "deltaInYear": 0.034,
+  "outstandingShare": 3517.2,
+  "issueShare": 3517.2,
+  "companyType": "NH",
+  "ticker": "TCB"
+}
